@@ -4,6 +4,7 @@ Este projeto teve como objetivo desenvolver uma página web simples, utilizando 
 ## Executando o projeto
 Para executar o projeto basta clicar no link https://github.com/fernndes/luthieria-santos-estudo/archive/master.zip para baixar o arquivo .zip, descompactar o arquivo baixado e executar o arquivo index.html.
 
+</br>
 
 ### Aprendizado
 </br>
