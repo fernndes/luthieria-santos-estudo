@@ -2,7 +2,7 @@
 Este projeto teve como objetivo desenvolver uma página web simples, utilizando HTML, CSS e JS.<br/>Partindo da ideia de um cliente fictício que desejava criar um site simples para sua empresa de luthieria fictícia.
 
 ## Executando o projeto
-Para executar o projeto basta clicar no link https://github.com/fernndes/luthieria-santos-estudo/archive/master.zip e executar o arquivo index.html.
+Para executar o projeto basta clicar no link https://github.com/fernndes/luthieria-santos-estudo/archive/master.zip para baixar o arquivo .zip, descompactar o arquivo baixado e executar o arquivo index.html.
 
 
 ### Aprendizado
