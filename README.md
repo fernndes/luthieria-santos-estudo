@@ -2,8 +2,16 @@
 Este projeto teve como objetivo desenvolver uma página web simples, utilizando HTML, CSS e JS.<br/>Partindo da ideia de um cliente fictício que desejava criar um site simples para sua empresa de luthieria fictícia. 
 
 
-Durante o desenvolvimento aprendi ainda mais sobre CSS, praticando diferentes tipos de display (grid, flex, block...) e como coordenar layouts com JS. Aprendi como utilizar JS para criar elementos dinâmicos, utilizando de um método de páginação para expor os produtos. Aprendi como inserir mapas do Google e também como lincar as páginas web.
 
+### Aprendizado
+</br>
+Durante o desenvolvimento aprendi ainda mais sobre CSS, praticando diferentes tipos de display (grid, flex, block...) e como coordenar layouts com JS. Aprendi como utilizar JS para criar elementos dinâmicos, utilizando de um método de páginação para expor os produtos. Aprendi como inserir mapas do Google e também como lincar as páginas web criadas.
+
+
+### Próximos passos
+</br>
+Utilizar de conceitos de Single Page Application para criar uma nova versão do site.
+</br>
 
 
 
